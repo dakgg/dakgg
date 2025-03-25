@@ -1,5 +1,5 @@
 ``` csharp
-var awesomeDeveloper = new Introduction()
+var developer = new Introduction()
 {
   Name = "황해승"
   Phone = 010-7468-0817,
